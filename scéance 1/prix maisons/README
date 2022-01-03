@@ -1,0 +1,9 @@
+jex de données
+
+- il y a 10 variables: toutes les variables sont de type float64 sauf "ocean_proximity", elle est de type object
+
+- oui, pour certaines données, il manque le "totla_bedrooms" car il y a 20640 instances de données pour chaque variable, sauf pour "total_bedrooms"
+
+############################
+
+la variable "median_income" semble être la vairalbe la plue corrélée au prix des maison
